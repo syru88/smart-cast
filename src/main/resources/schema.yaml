@@ -104,12 +104,6 @@ components:
           - description
         properties:
           description:
-            type: Description
-    Description:
-        required:
-          - value
-        properties:
-          value:
             type: string
     Error:
       required:
