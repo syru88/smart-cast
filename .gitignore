@@ -16,6 +16,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea/misc.xml
+.idea/GitLink.xml
 .idea/vcs.xml
 .idea/kotlinc.xml
 .idea/gradle.xml
